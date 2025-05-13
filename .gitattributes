@@ -1,0 +1,2 @@
+# Set default line endings to avoid different white spacing if core.autocrlf not set
+* text=auto eol=lf
